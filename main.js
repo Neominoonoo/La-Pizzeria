@@ -3,7 +3,8 @@ menu_list_array = ["Hawaiian",
                         "Meatlovers",
                         "Simply Cheese",
                         "Ham and Cheese",
-                        "Veg Pizza"];
+                        "Veg Pizza",
+		  	"Bacon and Cheese"];
     
     function getmenu(){
         var htmldata="";
